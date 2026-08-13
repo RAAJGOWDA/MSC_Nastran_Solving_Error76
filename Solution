@@ -1,1 +1,3 @@
-# MSC_Nastran_Solving_Error76
+Even after Eqivalencing, changing the SPC DOF, deck file, conducted free-free check and found that the model was stable but was moving towards the load offset area 
+and found the FEM tilting towards one side and later understood that both side of the dolly stucture vertical pillar and the toridish clamp was not connected 
+to each other. Fix the connection.
